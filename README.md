@@ -96,7 +96,7 @@ In this project, I will write 08 query in Bigquery base on Adventureworks2019 in
 
   ![Result 7](https://github.com/user-attachments/assets/4bdf0adf-d06e-49c1-b896-8319ce444918)
 
-### **Query 08: Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017. For example, 100% product view then 40% add_to_cart and 10% purchase.**
+### **Query 08: Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017.**
 
 - SQL code
 

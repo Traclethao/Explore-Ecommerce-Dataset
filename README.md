@@ -27,7 +27,9 @@ In this project, I will write 08 query in Bigquery base on Adventureworks2019 in
 ### **Query 01: calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month).** 
 
 - SQL code
+  
 ![1](https://github.com/user-attachments/assets/446dcb48-b8be-49f6-841e-55b61ca635e8) 
+
 - Query results
 
 ### **Query 02: Bounce rate per traffic source in July 2017 (Bounce_rate = num_bounce/total_visit) (order by total_visit DESC).** 

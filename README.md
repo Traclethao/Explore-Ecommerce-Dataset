@@ -2,7 +2,7 @@
 
 ## **I. Introduction**
 
-This project contains an AdventureWorks2019 dataset that I will SQL on Google BigQuery to solve problems such as data mining and data exploration, joining data from separate spreadsheets on Ecommerce data. I was given task to find answers for the following questions related to Adventure Works database.
+This project contains an AdventureWorks2019 dataset that I will SQL on Google BigQuery to solve problems such as data mining and data exploration, joining data from separate spreadsheets on Ecommerce data. I was given a task to find answers for the following questions related to the AdventureWorks database.
 
 ## **II. Requirements**
 
@@ -17,12 +17,12 @@ The eCommerce dataset is stored in a public Google BigQuery dataset. To access t
 
 - Log in to your Google Cloud Platform account and create a new project.
 - Navigate to the BigQuery console and select your newly created project.
-- In the navigation panel, select "Add Data" and then "Star a project by name".
+- In the navigation panel, select "Add Data" and then "Start a project by name".
 - Enter the project name **"adventureworks2019"** and click "Enter".
 
 ## **IV. Exploring the Dataset**
 
-In this project, I will write 08 query in Bigquery base on Adventureworks2019 in Google Analytics dataset. 
+In this project, I will write 08 queries in Bigquery based on Adventureworks2019 in Google Analytics dataset. 
 
 ### **Query 01: calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month).** 
 
@@ -109,4 +109,4 @@ In this project, I will write 08 query in Bigquery base on Adventureworks2019 in
 ## **V. Conclusion**
 
 - By exploring eCommerce dataset, I have gained valuable information about total visits, pageview, transaction, bounce rate per traffic source, revenue by traffic source by week and by month, average number of pageviews by purchaser type, and average amount of money spent per session.... which could inform future business decisions. 
-- **Overall**, this project has demonstrated the power of using SQL and big data tools like Google BigQuery to gain insights into large datasets.
+- **Overall**, This project has demonstrated the power of using SQL and big data tools like Google BigQuery to gain insights into large datasets.

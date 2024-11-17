@@ -4,14 +4,7 @@
 
 This project contains an AdventureWorks2019 dataset that I will SQL on Google BigQuery to solve problems such as data mining and data exploration, joining data from separate spreadsheets on Ecommerce data. I was given a task to find answers for the following questions related to the AdventureWorks database.
 
-## **II. Requirements**
-
-- [Google Cloud Platform account](https://cloud.google.com/)
-- Project on Google Cloud Platform
-- [Google BigQuery API](https://cloud.google.com/bigquery/docs/enable-transfer-service#:~:text=Enable%20the%20BigQuery%20Data%20Transfer%20Service,-Before%20you%20can&text=Open%20the%20BigQuery%20Data%20Transfer,Click%20the%20ENABLE%20button.) enabled
-- [SQL query editor](https://cloud.google.com/monitoring/mql/query-editor) or IDE
-
-## **III. Dataset Access**
+## **II. Dataset Access**
 
 The eCommerce dataset is stored in a public Google BigQuery dataset. To access the dataset, follow these steps:
 
@@ -20,7 +13,7 @@ The eCommerce dataset is stored in a public Google BigQuery dataset. To access t
 - In the navigation panel, select "Add Data" and then "Start a project by name".
 - Enter the project name **"adventureworks2019"** and click "Enter".
 
-## **IV. Exploring the Dataset**
+## **III. Exploring the Dataset**
 
 In this project, I will write 08 queries in Bigquery based on Adventureworks2019 in Google Analytics dataset. 
 

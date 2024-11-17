@@ -99,7 +99,7 @@ In this project, I will write 08 queries in Bigquery based on Adventureworks2019
 
   ![Result 8](https://github.com/user-attachments/assets/e2ab0deb-e2db-43b4-89d1-3a180d269aae)
 
-## **V. Conclusion**
+## **IV. Conclusion**
 
 - By exploring eCommerce dataset, I have gained valuable information about total visits, pageview, transaction, bounce rate per traffic source, revenue by traffic source by week and by month, average number of pageviews by purchaser type, and average amount of money spent per session.... which could inform future business decisions. 
 - **Overall**, This project has demonstrated the power of using SQL and big data tools like Google BigQuery to gain insights into large datasets.
